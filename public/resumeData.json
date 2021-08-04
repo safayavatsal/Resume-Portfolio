@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Vatsal Safaya",
+    "occupation": "A Freelance Developer and Graphic Designer",
+    "description": "I eat, sleep and breathe, Creativity and Development",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Vatsal! You might also know me as TheCode5. I've been coding for over 6 years now. As a Frontend developer I've worked both with startups and small scale businesses to help build & scale their companies. Along the journey I realised my passion existed in teaching and helping students to excel and pursue their dreams as a developers. With this passion, I have now trained some students across the globe. Through live coaching sessions on colaborating with different teaching institutions, I have accumulated good feedback, demonstrating how to apply developer skills in a range of cool builds. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the TheCode5 fam!",
+    "email": "vatsalsafaya@gmail.com",
+    "phone": "+91 7006635615",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Ahmedabad",
+      "city": "India",
+      "state": "Gujarat",
+      "zip": "380015"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.thecode5.com",
+    "resumedownload": "http://thecode5.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCb7Ugt258howKrhxDq94n6w",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/vatsal.safaya",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/safayavatsal-232403rv/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/_.lev.01/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/safayavatsal",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +48,74 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "L.D. College of Engineering",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "Expected by July 2022",
+        "description": "Have been a part of ROBOCON & SSIP."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Freelance",
+        "title": "App Developer",
+        "years": "Sept 2018 - Present",
+        "description": "Designed, developed, and troubleshot software programs for databases and applications in Kotlin Java, and SQL. Developed some applications, added new features & debugged codes in Kotlin, Java, Swift & Dart. Worked as a Native Application Developer in both Android & iOS. Currently working as a Cross-Platform Application Developer. Turned in projects an average of 5% faster than targets. Worked with both SQL & NoSQL databases"
+      },
+      {
+        "company": "Freelance",
+        "title": "Graphic Designer",
+        "years": "May 2020 - Present",
+        "description": "Created custom graphics sets for clients, with 99% client satisfaction scores. Handled all composition, color, illustration, typography, and branding for client projects. Turned in projects an average of 5% faster than targets. Created custom graphics sets for clients, with 99% client satisfaction scores"
+      },
+      {
+        "company": "Masterji Classes",
+        "title": "Teacher",
+        "years": "Feb 2020 - Present",
+        "description": "Teaching PYTHON & Data Structures and Algorithms"
+      },
+      {
+        "company": "Simplilearn",
+        "title": "Campus Ambassador",
+        "years": "Jan 2021 - Apr 2021",
+        "description": "Promoting courses and conducted a successful workshop"
+      },
+      {
+        "company": "SSIP",
+        "title": "Student Coordinator & Mentor",
+        "years": "Apr 2019 - Mar 2021",
+        "description": "Technical help to a startup"
+      },
+      {
+        "company": "ROBOCON",
+        "title": "Team Member",
+        "years": "Apr 2019 - Jan 2020",
+        "description": "Developing hardware mechanism for robot. Stood 7th NATIONALLY"
+      },
+      {
+        "company": "Freelance",
+        "title": "Web Designer",
+        "years": "May 2017 - Aug 2018",
+        "description": "Designed a website for my friend's startup. Redesign some websites for my clients. Designed custom graphics for a local print shop. Improved UX for website for a local church. Created custom graphics sets for clients, with 99% client satisfaction scores"
+      },
+      {
+        "company": "Freelance",
+        "title": "Web Developer",
+        "years": "Mar 2015 - Feb 2017",
+        "description": "Developed my own school's website.Developed a website for our school event with my team. Adapted front-end technologies to follow back-end development using React. Developed website components in JavaScript based on functional requirements and specifications"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
+      },
+      {
+        "name": "Dart",
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "Git",
@@ -77,45 +123,72 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "70%"
       },
       {
         "name": "Web Development",
+        "level": "85%"
+      },
+      {
+        "name": "App Development",
+        "level": "85%"
+      },
+      {
+        "name": "Adobe XD",
         "level": "95%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Illustrators",
+        "level": "85%"
       }
+      
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Sweet Night pt-1",
+        "category": "Graphic Design",
+        "image": "Sweet Night pt-1.png",
+        "url": "https://www.behance.net/gallery/124623103/Sweet-Night-pt-1"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "E-ComApp",
+        "category": "App Development",
+        "image": "E-ComApp.png",
+        "url": "https://github.com/safayavatsal/E_com_app"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Corona Tracker",
+        "category": "App Development",
+        "image": "CoronaTracker.png",
+        "url": "https://github.com/safayavatsal/corona-tracker,https://medium.com/@vatsalsafaya/time-management-for-freelancers-7-proven-tips-for-success-5b5c002710cb"
+      },
+      {
+        "title": "Time management for freelancers",
+        "category": "Blog",
+        "image": "TimeManagement.jpeg",
+        "url": "https://medium.com/@vatsalsafaya/time-management-for-freelancers-7-proven-tips-for-success-5b5c002710cb"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Vatsal is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Aman Manhas"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Vatsal has been AWESOME, he makes learning programming so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Apaar"
+      },
+      {
+        "text": "It has been great working with Vatsal in a project & with him you learn a lot and that too in an easier way",
+        "user": "Varsha"
       }
     ]
   }

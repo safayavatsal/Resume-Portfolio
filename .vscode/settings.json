@@ -1,0 +1,5 @@
+{
+    "editor.columnSelection": true,
+    "editor.minimap.maxColumn": 80,
+    "html.format.wrapLineLength": 80
+}
