@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Vatsal Safaya",
-    "occupation": "A Freelance Developer and Graphic Designer",
-    "description": "I eat, sleep and breathe, Creativity and Development",
+    "occupation": "A Freelance Developer and A Student for life",
+    "description": "I eat, sleep and breathe, Learning, Creativity and Development",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Vatsal! You might also know me as TheCode5. I've been coding for over 6 years now. As a Frontend developer I've worked both with startups and small scale businesses to help build & scale their companies. Along the journey I realised my passion existed in teaching and helping students to excel and pursue their dreams as a developers. With this passion, I have now trained some students across the globe. Through live coaching sessions on colaborating with different teaching institutions, I have accumulated good feedback, demonstrating how to apply developer skills in a range of cool builds. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
     "contactmessage": "Get in touch with me to be a part of the TheCode5 fam!",
     "email": "vatsalsafaya@gmail.com",
     "phone": "+91 7006635615",
     "address": {
-      "street": "Ahmedabad",
+      "street": "Jammu",
       "city": "India",
-      "state": "Gujarat",
-      "zip": "380015"
+      "state": "Jammu & Kashmir",
+      "zip": "181205"
     },
     "website": "https://www.thecode5.com",
-    "resumedownload": "http://thecode5.com",
+    "resumedownload": "https://drive.google.com/file/d/1hmu4iH4XLlGnqpJW4MNPlMfHOVQPngNF/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -41,6 +41,21 @@
         "name": "github",
         "url": "https://github.com/safayavatsal",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/safaya_vatsal",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "Behance",
+        "url": "https://www.behance.net/vatsalsafaya",
+        "className": "fa fa-dribbble"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@vatsalsafaya",
+        "className": "fa fa-book"
       }
     ]
   },
@@ -51,105 +66,148 @@
         "school": "L.D. College of Engineering",
         "degree": "Bachelor's Degree, Computer Engineering",
         "graduated": "Expected by July 2022",
-        "description": "Have been a part of ROBOCON & SSIP."
+        "description": "Volunteered at Lakshya 2k19 & TFUG Ahmedabad. Organised an event for TFUG Ahmedabad & Flutter Ahmedabad. Active member at TFUG Sydney, GDG(Ahmedabad, Mumbai, Pune, Baroda, Coimbatore & Gandhinagar). Exploring new opportunities, been a member at Robocon LDCE technical team, Team to represent India Internationally in NGWA Challenge & Robosub 2019."
       }
     ],
     "work": [
       {
         "company": "Freelance",
         "title": "App Developer",
-        "years": "Sept 2018 - Present",
-        "description": "Designed, developed, and troubleshot software programs for databases and applications in Kotlin Java, and SQL. Developed some applications, added new features & debugged codes in Kotlin, Java, Swift & Dart. Worked as a Native Application Developer in both Android & iOS. Currently working as a Cross-Platform Application Developer. Turned in projects an average of 5% faster than targets. Worked with both SQL & NoSQL databases"
+        "years": "Sept 2018 - Mar 2022",
+        "description": "Designed, developed, and troubleshot software programs for databases and applications in Kotlin and SQL. Developed some applications, added new features & debugged codes in Kotlin, Swift & Dart. Worked as a Native Application Developer in both Android & iOS. Currently working as a Cross-Platform Application Developer. Turned in projects an average of 5% faster than targets. Worked with both SQL & NoSQL databases"
       },
       {
         "company": "Freelance",
         "title": "Graphic Designer",
-        "years": "May 2020 - Present",
+        "years": "May 2020 - Nov 2021",
         "description": "Created custom graphics sets for clients, with 99% client satisfaction scores. Handled all composition, color, illustration, typography, and branding for client projects. Turned in projects an average of 5% faster than targets. Created custom graphics sets for clients, with 99% client satisfaction scores"
+      },
+      {
+        "company": "Freelance",
+        "title": "Data Science",
+        "years": "Dec 2020 - Oct 2021",
+        "description": "Developed an ML prototype for detecting licence plates, verifying the owner & parking spot detection. Developed an ML prototype for collecting valuable information from a resume in any format. Increased the efficiency of these models by around 90%"
       },
       {
         "company": "Masterji Classes",
         "title": "Teacher",
-        "years": "Feb 2020 - Present",
-        "description": "Teaching PYTHON & Data Structures and Algorithms"
+        "years": "Feb 2020 - Aug 2021",
+        "description": "Learned how to deal with students. How to make sessions more enjoyable & interactive. How to teach students of different ages. Taught Python Data Structures & Algorithms - Tips on improving coding skills. Career tips. Teaching new topics. Taught students between age groups 16-22. Technologies taught: Python, Dart(Flutter), Git & Github"
       },
       {
         "company": "Simplilearn",
         "title": "Campus Ambassador",
-        "years": "Jan 2021 - Apr 2021",
-        "description": "Promoting courses and conducted a successful workshop"
+        "years": "Mar 2021 - June 2021",
+        "description": "Campus Ambassador at Simplilearn. Given a conversion rate of over 40 - 50% every month. Increased the company's business by 5% each month"
       },
       {
         "company": "SSIP",
         "title": "Student Coordinator & Mentor",
         "years": "Apr 2019 - Mar 2021",
-        "description": "Technical help to a startup"
+        "description": " Coordinator at SSIP. Medium between mentors & startups. Mentoring 2 startups incubated at SSIP GTU. Technical guide for 1 startup"
       },
       {
         "company": "ROBOCON",
         "title": "Team Member",
         "years": "Apr 2019 - Jan 2020",
-        "description": "Developing hardware mechanism for robot. Stood 7th NATIONALLY"
+        "description": "Helped in developing the algorithm for increasing the robot's efficiency. Increased the robot's efficiency by over 40% in different aspects. Stood 7th nationally"
       },
       {
         "company": "Freelance",
         "title": "Web Designer",
         "years": "May 2017 - Aug 2018",
-        "description": "Designed a website for my friend's startup. Redesign some websites for my clients. Designed custom graphics for a local print shop. Improved UX for website for a local church. Created custom graphics sets for clients, with 99% client satisfaction scores"
+        "description": " Designed a website for my friend's startup. Redesign some websites for my clients. Designed custom graphics for a local print shop. Improved UX for website for a local church. Created custom graphics sets for clients, with 99% client satisfaction scores"
       },
       {
         "company": "Freelance",
         "title": "Web Developer",
         "years": "Mar 2015 - Feb 2017",
-        "description": "Developed my own school's website.Developed a website for our school event with my team. Adapted front-end technologies to follow back-end development using React. Developed website components in JavaScript based on functional requirements and specifications"
+        "description": "Developed my own school's website. Developed a website for our school event with my team. Adapted front-end technologies to follow back-end development using React. Developed website components in JavaScript based on functional requirements and specifications"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
       },
       {
         "name": "Dart",
         "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
         "name": "JavaScript",
         "level": "70%"
       },
       {
-        "name": "Web Development",
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "70%"
+      },
+      {
+        "name": "SQLite",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
         "level": "85%"
       },
       {
-        "name": "App Development",
-        "level": "85%"
+        "name": "MongoDB",
+        "level": "50%"
       },
       {
         "name": "Adobe XD",
         "level": "95%"
       },
       {
-        "name": "Adobe Photoshop",
+        "name": "Figma",
         "level": "80%"
       },
       {
+        "name": "Invision Studio",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "70%"
+      },
+      {
         "name": "Adobe Illustrators",
-        "level": "85%"
+        "level": "80%"
+      },
+      {
+        "name": "Project MAnagement",
+        "level": "80%"
+      },
+      {
+        "name": "Team Leadership",
+        "level": "80%"
       }
-      
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Twitter Clone",
+        "category": "Web Development",
+        "image": "twitter.png",
+        "url": "https://twitter-clone-ashen.vercel.app"
+      },
       {
         "title": "Sweet Night pt-1",
         "category": "Graphic Design",
@@ -157,7 +215,7 @@
         "url": "https://www.behance.net/gallery/124623103/Sweet-Night-pt-1"
       },
       {
-        "title": "E-ComApp",
+        "title": "E-Comerce App",
         "category": "App Development",
         "image": "E-ComApp.png",
         "url": "https://github.com/safayavatsal/E_com_app"
@@ -166,13 +224,19 @@
         "title": "Corona Tracker",
         "category": "App Development",
         "image": "CoronaTracker.png",
-        "url": "https://github.com/safayavatsal/corona-tracker,https://medium.com/@vatsalsafaya/time-management-for-freelancers-7-proven-tips-for-success-5b5c002710cb"
+        "url": "https://coronatracker-m9zwmzfnh-safayavatsal.vercel.app"
       },
       {
         "title": "Time management for freelancers",
         "category": "Blog",
         "image": "TimeManagement.jpeg",
         "url": "https://medium.com/@vatsalsafaya/time-management-for-freelancers-7-proven-tips-for-success-5b5c002710cb"
+      },
+      {
+        "title": "Frood",
+        "category": "Graphic Design",
+        "image": "frood.png",
+        "url": "https://www.behance.net/gallery/127642613/Frood"
       }
     ]
   },
@@ -189,6 +253,22 @@
       {
         "text": "It has been great working with Vatsal in a project & with him you learn a lot and that too in an easier way",
         "user": "Varsha"
+      },
+      {
+        "text": "Extremely skillful at his functional area, abundant knowledge, balanced personality and his unique way of handling her team makes her a wonderful leader.",
+        "user": "Anand"
+      },
+      {
+        "text": "Vatsal is a dedicated, result driven leader and thoughtful individual. If you ever need someone to deliver under pressure, no slip-ups, just results, he’s the one! He is great in dealing with difficult situations and a fantastic problem solver.",
+        "user": "Akshat"
+      },
+      {
+        "text": "Extremely skillful at his functional area, abundant knowledge, balanced personality and a unique way of team handling makes him a wonderful leader.",
+        "user": "Ahaan"
+      },
+      {
+        "text": "He has created so many websites for us and for each one he has worked as a partner. We are glad that he is associated with us as he provides his valuable advise on what needs to be done and how to go about it.",
+        "user": "Roshan"
       }
     ]
   }
